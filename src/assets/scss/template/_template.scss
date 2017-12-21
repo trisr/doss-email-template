@@ -140,3 +140,11 @@ th.callout-inner.delivery {
 .with-border {
   border-bottom: 3px solid $doss-border-gray;
 }
+
+th.callout-inner.pembayaran {
+  border: none;
+
+  h3 {
+    background: $doss-pink;
+  }
+}
