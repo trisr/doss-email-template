@@ -108,10 +108,10 @@ table.order-list {
 
   .header {
     background: $doss-pink;
-    font-weight: bold;
 
     th {
       border: 1px solid $doss-border-gray;
+      font-weight: bold;
       padding: 5px 10px;
     }
   }
